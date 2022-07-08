@@ -1,5 +1,10 @@
 body {
+  margin: 0;
   font-family: "Roboto";
+}
+
+.wrapper {
+ 
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -166,14 +171,16 @@ a {
   font-weight: 600;
   padding: 12px 32px;
   line-height: 8px;
+  flex-shrink: 0;
+  margin-left: 16px;
 }
 
 footer{
   text-align: center;
   background: #1F2937;
   color:#E5E7EB;
-  
+  height: 50px;
   margin: 0px;
   padding: 20px;
-  
+  display: block;
 }
