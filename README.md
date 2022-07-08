@@ -1,9 +1,11 @@
 # landing-page
 Landing page created with HTML and CSS.
 
-Images:
-- Caio - https://www.pexels.com/photo/red-macaw-close-up-12568038/
+## Credits: ##
+
 - Ahmad Kiani - https://www.pexels.com/photo/close-up-photo-of-two-green-scarlet-macaws-perched-on-a-piece-of-wood-8211485/
 - Couleur - https://www.pexels.com/photo/photo-of-yellow-and-blue-macaw-with-one-wing-open-perched-on-a-wooden-stick-2317904/
-- Magda Ehlers - https://www.pexels.com/photo/blue-and-yellow-macaw-1427439/
-- Hans Martha - https://www.pexels.com/photo/close-up-photo-of-parakeet-1059823/
+- Pixabay - https://www.pexels.com/photo/animal-avian-beak-bird-531495/
+- Pixabay - https://www.pexels.com/photo/duckling-on-black-soil-during-daytime-162140/
+- Mikhail Nilov - https://www.pexels.com/photo/a-black-palm-cockatoo-in-macro-photography-7722517/
+
