@@ -165,3 +165,12 @@ a {
   padding: 12px 32px;
   line-height: 8px;
 }
+
+.footer{
+  text-align: center;
+  background: #1F2937;
+  color:#E5E7EB;
+  flex-basis: 20px;
+  margin: 0;
+  padding: 20px;
+}
